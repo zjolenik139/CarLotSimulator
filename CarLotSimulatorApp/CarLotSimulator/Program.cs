@@ -13,6 +13,8 @@ namespace CarLotSimulator
             //Car shall have the following methods: MakeEngineNoise(), MakeHonkNoise()
             //The methods should take one string parameter: the respective noise property
 
+            var test = "testvariable";
+
 
             //Now that the Car class is created we can instanciate 3 new cars
             //Set the properties for each of the cars
